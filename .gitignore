@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+*.user
+/.vs
+/odata.server/obj
+/odata.server/bin
+/odata.common/bin
+/odata.common/obj
+/odata.client/obj
+/odata.client/bin
